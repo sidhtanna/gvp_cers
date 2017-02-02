@@ -1,0 +1,5 @@
+This project is developed for the Employe of Gujarat Vidyapith, where i completed my Masters(MCA)
+Here the employe can claim his/her child education fees or other related expenses, and reimburse
+that expenses by our organization.
+
+Thank you
